@@ -1,4 +1,6 @@
 {
+  "productos": [
+    {
       "idProd": 1,
       "nomProd": "Condensador de Aire Acondicionado",
       "valorProd": 49823,
