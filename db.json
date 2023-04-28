@@ -4,175 +4,175 @@
       "nomProd": "Condensador de Aire Acondicionado",
       "valorProd": 49823,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/1.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/1.png"
     },
     {
       "idProd": 2,
       "nomProd": "Ensamblaje de Ventilador de Condensador de Aire Acondicionado",
       "valorProd": 29296,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/2.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/2.png"
     },
     {
       "idProd": 3,
       "nomProd": "Filtro de Aire de Cabina",
       "valorProd": 20755,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/3.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/3.png"
     },
     {
       "idProd": 4,
       "nomProd": "Manguera de Calefactor",
       "valorProd": 17580,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/4.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/4.png"
     },
     {
       "idProd": 5,
       "nomProd": "Módulo de Control / Resistencia de Motor de Ventilador",
       "valorProd": 3681,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/5.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/5.png"
     },
     {
       "idProd": 6,
       "nomProd": "Sensor de Temperatura de Aire Ambiente",
       "valorProd": 37445,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/6.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/6.png"
     },
     {
       "idProd": 7,
       "nomProd": "Carrocería y Ensamblaje de Lámpara",
       "valorProd": 38508,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/7.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/7.png"
     },
     {
       "idProd": 8,
       "nomProd": "Actuador de Cerradura de Puerta",
       "valorProd": 29702,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/8.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/8.png"
     },
     {
       "idProd": 9,
       "nomProd": "Amortiguador de Soporte",
       "valorProd": 20952,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/9.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/9.png"
     },
     {
       "idProd": 10,
       "nomProd": "Combustible y Aire",
       "valorProd": 20718,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/10.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/10.png"
     },
     {
       "idProd": 11,
       "nomProd": "Bomba de Combustible",
       "valorProd": 26232,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/11.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/11.png"
     },
     {
       "idProd": 12,
       "nomProd": "Colador de Bomba de Combustible",
       "valorProd": 49835,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/12.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/12.png"
     },
     {
       "idProd": 13,
       "nomProd": "Ensamblaje de Bomba de Combustible y Carcasa",
       "valorProd": 44680,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/13.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/13.png"
     },
     {
       "idProd": 14,
       "nomProd": "Filtro de Aire",
       "valorProd": 32123,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/14.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/14.png"
     },
     {
       "idProd": 15,
       "nomProd": "Filtro de Combustible",
       "valorProd": 7630,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/15.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/15.png"
     },
     {
       "idProd": 16,
       "nomProd": "Inyector de Combustible",
       "valorProd": 45128,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/16.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/16.png"
     },
     {
       "idProd": 17,
       "nomProd": "Sensor de Posición de Acelerador (TPS)",
       "valorProd": 7817,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/17.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/17.png"
     },
     {
       "idProd": 18,
       "nomProd": "Soporte Colgante de Combustible",
       "valorProd": 35399,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/18.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/18.png"
     },
     {
       "idProd": 19,
       "nomProd": "Válvula de Control de Aire de Ralentí (IAC)",
       "valorProd": 24967,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/19.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/19.png"
     },
     {
       "idProd": 20,
       "nomProd": "Correa de Transmisión",
       "valorProd": 35787,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/20.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/20.png"
     },
     {
       "idProd": 21,
       "nomProd": "Correa",
       "valorProd": 35302,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/21.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/21.png"
     },
     {
       "idProd": 22,
       "nomProd": "Polea de Tensor",
       "valorProd": 38418,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/22.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/22.png"
     },
     {
       "idProd": 23,
       "nomProd": "Polea Loca",
       "valorProd": 7691,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/23.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/23.png"
     },
     {
       "idProd": 24,
       "nomProd": "Tensor de Correa",
       "valorProd": 3730,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/24.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/24.png"
     },
     {
       "idProd": 25,
       "nomProd": "Amortiguador de dirección",
       "valorProd": 28861,
       "descProd": "Texto descriptivo",
-      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/25.bin"
+      "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/25.png"
     }
   ]
 
