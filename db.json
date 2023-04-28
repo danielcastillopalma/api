@@ -1,5 +1,4 @@
-{
-  "productos": [
+[
     {
       "idProd": 1,
       "nomProd": "Condensador de Aire Acondicionado",
@@ -176,4 +175,4 @@
       "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/25.bin"
     }
   ]
-}
+
