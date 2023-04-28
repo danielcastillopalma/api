@@ -1,4 +1,4 @@
- {
+{
       "idProd": 1,
       "nomProd": "Condensador de Aire Acondicionado",
       "valorProd": 49823,
@@ -173,4 +173,4 @@
       "descProd": "Texto descriptivo",
       "imgSrc": "https://github.com/danielcastillopalma/api/tree/master/img/25.bin"
     }
-}
+
