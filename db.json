@@ -1,4 +1,4 @@
-{"count":25,"next":"https://my-json-server.typicode.com/danielcastillopalma/api/productos?offset=20&limit=20","previous":null,"productos":[
+{"count":25,"next":"https://my-json-server.typicode.com/danielcastillopalma/api/productos?offset=1&limit=1","previous":null,"productos":[
 {"idProd": 1,
 "nomProd":"Condensador de Aire Acondicionado",
 "valorProd":49823,
