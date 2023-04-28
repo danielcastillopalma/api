@@ -207,7 +207,10 @@ tipos = ["Climatización Módulo",
 
 
 while True:
-    print("{"'"idProd": '+str(x)+',\n"nomProd":"'+tipos[x]+'",\n"valorProd":'+str(r.randint(3000,50000))+',\n"descProd": "Texto descriptivo",\n"imgSrc":"https://github.com/danielcastillopalma/api/tree/master/img/'+str(x)+'.bin"}, ')
+    print("{"'"idProd": '+str(x)+',\n"nomProd":"'+tipos[x]+'",\n"valorProd":'+str(r.randint(3000,50000))+',\n"descProd": "Texto descriptivo",\n"imgSrc":"img/api/'+str(x)+'.png"}, ')
+    if x>25:
+      print("{"'"idProd": '+str(x)+',\n"nomProd":"'+tipos[x]+'",\n"valorProd":'+str(r.randint(3000,50000))+',\n"descProd": "Texto descriptivo",\n"imgSrc":"img/api/2.png"}, ')
+     
     x=x+1
     if x==199:
      break
