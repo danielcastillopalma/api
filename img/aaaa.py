@@ -207,7 +207,7 @@ tipos = ["Climatización Módulo",
 
 
 while True:
-    print("{"'"idProd": '+str(x)+',\n"nomProd":"'+tipos[x]+'",\n"valorProd":'+str(r.randint(3000,50000))+',\n"descProd": "Texto descriptivo",\n"imgSrc":""}, ')
+    print("{"'"idProd": '+str(x)+',\n"nomProd":"'+tipos[x]+'",\n"valorProd":'+str(r.randint(3000,50000))+',\n"descProd": "Texto descriptivo",\n"imgSrc":"https://github.com/danielcastillopalma/api/tree/master/img/'+str(x)+'.bin"}, ')
     x=x+1
     if x==199:
      break
