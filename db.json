@@ -2,2597 +2,1387 @@
   {
     "idProd": 1,
     "nomProd": "Condensador de Aire Acondicionado",
-    "valorProd": 44503,
+    "valorProd": 36891,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/1.png"
   },
   {
     "idProd": 2,
     "nomProd": "Ensamblaje de Ventilador de Condensador de Aire Acondicionado",
-    "valorProd": 12022,
+    "valorProd": 46063,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 3,
     "nomProd": "Filtro de Aire de Cabina",
-    "valorProd": 44839,
+    "valorProd": 29850,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/3.png"
   },
   {
     "idProd": 4,
     "nomProd": "Manguera de Calefactor",
-    "valorProd": 35647,
+    "valorProd": 13504,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/4.png"
   },
   {
     "idProd": 5,
     "nomProd": "Módulo de Control / Resistencia de Motor de Ventilador",
-    "valorProd": 22829,
+    "valorProd": 29516,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/5.png"
   },
   {
     "idProd": 6,
     "nomProd": "Sensor de Temperatura de Aire Ambiente",
-    "valorProd": 15458,
+    "valorProd": 36786,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/6.png"
   },
   {
     "idProd": 7,
     "nomProd": "Carrocería y Ensamblaje de Lámpara",
-    "valorProd": 14482,
+    "valorProd": 26348,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/7.png"
   },
   {
     "idProd": 8,
     "nomProd": "Actuador de Cerradura de Puerta",
-    "valorProd": 31414,
+    "valorProd": 49903,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/8.png"
   },
   {
     "idProd": 9,
     "nomProd": "Amortiguador de Soporte",
-    "valorProd": 25222,
+    "valorProd": 20547,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/9.png"
   },
   {
     "idProd": 10,
     "nomProd": "Combustible y Aire",
-    "valorProd": 42078,
+    "valorProd": 49602,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/10.png"
   },
   {
     "idProd": 11,
     "nomProd": "Bomba de Combustible",
-    "valorProd": 45792,
+    "valorProd": 35069,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/11.png"
   },
   {
     "idProd": 12,
     "nomProd": "Colador de Bomba de Combustible",
-    "valorProd": 38735,
+    "valorProd": 9148,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/12.png"
   },
   {
     "idProd": 13,
     "nomProd": "Ensamblaje de Bomba de Combustible y Carcasa",
-    "valorProd": 39024,
+    "valorProd": 11669,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/13.png"
   },
   {
     "idProd": 14,
     "nomProd": "Filtro de Aire",
-    "valorProd": 27654,
+    "valorProd": 32832,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/14.png"
   },
   {
     "idProd": 15,
     "nomProd": "Filtro de Combustible",
-    "valorProd": 33216,
+    "valorProd": 14580,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/15.png"
   },
   {
     "idProd": 16,
     "nomProd": "Inyector de Combustible",
-    "valorProd": 17824,
+    "valorProd": 47587,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/16.png"
   },
   {
     "idProd": 17,
     "nomProd": "Sensor de Posición de Acelerador (TPS)",
-    "valorProd": 19476,
+    "valorProd": 30459,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/17.png"
   },
   {
     "idProd": 18,
     "nomProd": "Soporte Colgante de Combustible",
-    "valorProd": 24334,
+    "valorProd": 48253,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/18.png"
   },
   {
     "idProd": 19,
     "nomProd": "Válvula de Control de Aire de Ralentí (IAC)",
-    "valorProd": 37758,
+    "valorProd": 31538,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/19.png"
   },
   {
     "idProd": 20,
     "nomProd": "Correa de Transmisión",
-    "valorProd": 19825,
+    "valorProd": 18535,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/20.png"
   },
   {
     "idProd": 21,
     "nomProd": "Correa",
-    "valorProd": 28028,
+    "valorProd": 32422,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/21.png"
   },
   {
     "idProd": 22,
     "nomProd": "Polea de Tensor",
-    "valorProd": 42695,
+    "valorProd": 5727,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/22.png"
   },
   {
     "idProd": 23,
     "nomProd": "Polea Loca",
-    "valorProd": 34711,
+    "valorProd": 8126,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/23.png"
   },
   {
     "idProd": 24,
     "nomProd": "Tensor de Correa",
-    "valorProd": 20776,
+    "valorProd": 13702,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/24.png"
   },
   {
     "idProd": 25,
     "nomProd": "Amortiguador de dirección",
-    "valorProd": 36570,
+    "valorProd": 49090,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/25.png"
   },
   {
     "idProd": 26,
     "nomProd": "Bomba de Dirección Hidráulica",
-    "valorProd": 15045,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/26.png"
-  },
-  {
-    "idProd": 26,
-    "nomProd": "Bomba de Dirección Hidráulica",
-    "valorProd": 39692,
+    "valorProd": 9131,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 27,
     "nomProd": "Brazo Auxiliar",
-    "valorProd": 32257,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/27.png"
-  },
-  {
-    "idProd": 27,
-    "nomProd": "Brazo Auxiliar",
-    "valorProd": 40069,
+    "valorProd": 21652,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 28,
     "nomProd": "Brazo Pitman",
-    "valorProd": 40998,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/28.png"
-  },
-  {
-    "idProd": 28,
-    "nomProd": "Brazo Pitman",
-    "valorProd": 30213,
+    "valorProd": 4432,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 29,
     "nomProd": "Buje de Biela de Dirección",
-    "valorProd": 26243,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/29.png"
-  },
-  {
-    "idProd": 29,
-    "nomProd": "Buje de Biela de Dirección",
-    "valorProd": 19935,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 30,
-    "nomProd": "Buje de Cremallera",
-    "valorProd": 41903,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/30.png"
-  },
-  {
-    "idProd": 30,
-    "nomProd": "Buje de Cremallera",
-    "valorProd": 3971,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 31,
-    "nomProd": "Centro / Biela de Arrastre",
-    "valorProd": 3212,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/31.png"
-  },
-  {
-    "idProd": 31,
-    "nomProd": "Centro / Biela de Arrastre",
-    "valorProd": 32326,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 32,
-    "nomProd": "Cremallera",
-    "valorProd": 7502,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/32.png"
-  },
-  {
-    "idProd": 32,
-    "nomProd": "Cremallera",
-    "valorProd": 22730,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 33,
-    "nomProd": "Fuelle de Amortiguador de Dirección",
-    "valorProd": 42394,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/33.png"
-  },
-  {
-    "idProd": 33,
-    "nomProd": "Fuelle de Amortiguador de Dirección",
-    "valorProd": 39697,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 34,
-    "nomProd": "Juego de Revisión de Caja de Engranaje de Dirección",
-    "valorProd": 33846,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/34.png"
-  },
-  {
-    "idProd": 34,
-    "nomProd": "Juego de Revisión de Caja de Engranaje de Dirección",
-    "valorProd": 22248,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 35,
-    "nomProd": "Manga de Ajuste de Rótula de Dirección",
-    "valorProd": 31991,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/35.png"
-  },
-  {
-    "idProd": 35,
-    "nomProd": "Manga de Ajuste de Rótula de Dirección",
-    "valorProd": 32503,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 36,
-    "nomProd": "Manguera de Presión de Dirección Hidráulica",
-    "valorProd": 46227,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/36.png"
-  },
-  {
-    "idProd": 36,
-    "nomProd": "Manguera de Presión de Dirección Hidráulica",
-    "valorProd": 18167,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 37,
-    "nomProd": "Manguera de Retorno de Dirección Hidráulica",
-    "valorProd": 45351,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/37.png"
-  },
-  {
-    "idProd": 37,
-    "nomProd": "Manguera de Retorno de Dirección Hidráulica",
-    "valorProd": 31663,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 38,
-    "nomProd": "Rótula de Dirección",
-    "valorProd": 23760,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/38.png"
-  },
-  {
-    "idProd": 38,
-    "nomProd": "Rótula de Dirección",
-    "valorProd": 10981,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 39,
-    "nomProd": "Sensor de Posición de Volante",
-    "valorProd": 44225,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/39.png"
-  },
-  {
-    "idProd": 39,
-    "nomProd": "Sensor de Posición de Volante",
-    "valorProd": 13487,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 40,
-    "nomProd": "Eléctrico",
-    "valorProd": 38770,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/40.png"
-  },
-  {
-    "idProd": 40,
-    "nomProd": "Eléctrico",
-    "valorProd": 41653,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 41,
-    "nomProd": "Alambre de Luz de Cenicero",
-    "valorProd": 7411,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/41.png"
-  },
-  {
-    "idProd": 41,
-    "nomProd": "Alambre de Luz de Cenicero",
-    "valorProd": 13694,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 42,
-    "nomProd": "Sensor de Velocidad",
-    "valorProd": 31926,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/42.png"
-  },
-  {
-    "idProd": 42,
-    "nomProd": "Sensor de Velocidad",
-    "valorProd": 37896,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 43,
-    "nomProd": "Bombilla de Faro",
-    "valorProd": 31621,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/43.png"
-  },
-  {
-    "idProd": 43,
-    "nomProd": "Bombilla de Faro",
-    "valorProd": 5089,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 44,
-    "nomProd": "Bombilla de Lámpara de Cola",
-    "valorProd": 18335,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/44.png"
-  },
-  {
-    "idProd": 44,
-    "nomProd": "Bombilla de Lámpara de Cola",
-    "valorProd": 45809,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 45,
-    "nomProd": "Bombilla de Lámpara de Estacionamiento",
-    "valorProd": 44356,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/45.png"
-  },
-  {
-    "idProd": 45,
-    "nomProd": "Bombilla de Lámpara de Estacionamiento",
-    "valorProd": 23212,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 46,
-    "nomProd": "Bombilla de Lámpara de Manejo / Neblina",
-    "valorProd": 14452,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/46.png"
-  },
-  {
-    "idProd": 46,
-    "nomProd": "Bombilla de Lámpara de Manejo / Neblina",
-    "valorProd": 29695,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 47,
-    "nomProd": "Cazonete	Bombilla de Lámpara de Placa de Matricula",
-    "valorProd": 41450,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/47.png"
-  },
-  {
-    "idProd": 47,
-    "nomProd": "Cazonete	Bombilla de Lámpara de Placa de Matricula",
-    "valorProd": 46710,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 48,
-    "nomProd": "Bombilla de Lámpara de Retroceso / Marcha Atrás",
-    "valorProd": 4558,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/48.png"
-  },
-  {
-    "idProd": 48,
-    "nomProd": "Bombilla de Lámpara de Retroceso / Marcha Atrás",
-    "valorProd": 38230,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 49,
-    "nomProd": "Bombilla de Lámpara Direccional",
-    "valorProd": 36519,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/49.png"
-  },
-  {
-    "idProd": 49,
-    "nomProd": "Bombilla de Lámpara Direccional",
-    "valorProd": 41557,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 50,
-    "nomProd": "Bombilla de Luz de Dial de Radio",
-    "valorProd": 4631,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/50.png"
-  },
-  {
-    "idProd": 50,
-    "nomProd": "Bombilla de Luz de Dial de Radio",
-    "valorProd": 17223,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 51,
-    "nomProd": "Bombilla de Luz de Encendido",
-    "valorProd": 6595,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/51.png"
-  },
-  {
-    "idProd": 51,
-    "nomProd": "Bombilla de Luz de Encendido",
-    "valorProd": 35383,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 52,
-    "nomProd": "Bombilla de Luz de Freno - Alto Soporte",
-    "valorProd": 20810,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/52.png"
-  },
-  {
-    "idProd": 52,
-    "nomProd": "Bombilla de Luz de Freno - Alto Soporte",
-    "valorProd": 13280,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 53,
-    "nomProd": "Bombilla de Luz de Guantera",
-    "valorProd": 7749,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/53.png"
-  },
-  {
-    "idProd": 53,
-    "nomProd": "Bombilla de Luz de Guantera",
-    "valorProd": 31906,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 54,
-    "nomProd": "Bombilla de Luz Marcadora Lateral",
-    "valorProd": 48701,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/54.png"
-  },
-  {
-    "idProd": 54,
-    "nomProd": "Bombilla de Luz Marcadora Lateral",
-    "valorProd": 4825,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 55,
-    "nomProd": "Casquillo de Faro",
-    "valorProd": 22658,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/55.png"
-  },
-  {
-    "idProd": 55,
-    "nomProd": "Casquillo de Faro",
-    "valorProd": 7748,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 56,
-    "nomProd": "Paso / Bombilla de Luz de Cortesía",
-    "valorProd": 19249,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/56.png"
-  },
-  {
-    "idProd": 56,
-    "nomProd": "Paso / Bombilla de Luz de Cortesía",
-    "valorProd": 20793,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 57,
-    "nomProd": "Conector de Sensor de Velocidad de Rueda de ABS (Sistema de Freno Anti-Bloqueo)",
-    "valorProd": 33570,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/57.png"
-  },
-  {
-    "idProd": 57,
-    "nomProd": "Conector de Sensor de Velocidad de Rueda de ABS (Sistema de Freno Anti-Bloqueo)",
-    "valorProd": 38815,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 58,
-    "nomProd": "Interruptor / Enviador de Presión de Aceite",
     "valorProd": 42661,
     "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/58.png"
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 30,
+    "nomProd": "Buje de Cremallera",
+    "valorProd": 4794,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 31,
+    "nomProd": "Centro / Biela de Arrastre",
+    "valorProd": 38669,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 32,
+    "nomProd": "Cremallera",
+    "valorProd": 20607,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 33,
+    "nomProd": "Fuelle de Amortiguador de Dirección",
+    "valorProd": 46508,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 34,
+    "nomProd": "Juego de Revisión de Caja de Engranaje de Dirección",
+    "valorProd": 21633,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 35,
+    "nomProd": "Manga de Ajuste de Rótula de Dirección",
+    "valorProd": 8911,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 36,
+    "nomProd": "Manguera de Presión de Dirección Hidráulica",
+    "valorProd": 27583,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 37,
+    "nomProd": "Manguera de Retorno de Dirección Hidráulica",
+    "valorProd": 16340,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 38,
+    "nomProd": "Rótula de Dirección",
+    "valorProd": 5460,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 39,
+    "nomProd": "Sensor de Posición de Volante",
+    "valorProd": 31739,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 40,
+    "nomProd": "Eléctrico",
+    "valorProd": 10187,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 41,
+    "nomProd": "Alambre de Luz de Cenicero",
+    "valorProd": 10367,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 42,
+    "nomProd": "Sensor de Velocidad",
+    "valorProd": 39144,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 43,
+    "nomProd": "Bombilla de Faro",
+    "valorProd": 23588,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 44,
+    "nomProd": "Bombilla de Lámpara de Cola",
+    "valorProd": 43862,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 45,
+    "nomProd": "Bombilla de Lámpara de Estacionamiento",
+    "valorProd": 38254,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 46,
+    "nomProd": "Bombilla de Lámpara de Manejo / Neblina",
+    "valorProd": 27501,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 47,
+    "nomProd": "Cazonete     Bombilla de Lámpara de Placa de Matricula",
+    "valorProd": 22524,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 48,
+    "nomProd": "Bombilla de Lámpara de Retroceso / Marcha Atrás",
+    "valorProd": 7224,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 49,
+    "nomProd": "Bombilla de Lámpara Direccional",
+    "valorProd": 18171,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 50,
+    "nomProd": "Bombilla de Luz de Dial de Radio",
+    "valorProd": 29357,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 51,
+    "nomProd": "Bombilla de Luz de Encendido",
+    "valorProd": 46946,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 52,
+    "nomProd": "Bombilla de Luz de Freno - Alto Soporte",
+    "valorProd": 27043,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 53,
+    "nomProd": "Bombilla de Luz de Guantera",
+    "valorProd": 33098,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 54,
+    "nomProd": "Bombilla de Luz Marcadora Lateral",
+    "valorProd": 43446,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 55,
+    "nomProd": "Casquillo de Faro",
+    "valorProd": 31655,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 56,
+    "nomProd": "Paso / Bombilla de Luz de Cortesía",
+    "valorProd": 13384,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 57,
+    "nomProd": "Conector de Sensor de Velocidad de Rueda de ABS (Sistema de Freno Anti-Bloqueo)",
+    "valorProd": 24582,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 58,
     "nomProd": "Interruptor / Enviador de Presión de Aceite",
-    "valorProd": 31833,
+    "valorProd": 19517,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 59,
     "nomProd": "Interruptor / Panel de Control de Aire Acondicionado y Calefactor",
-    "valorProd": 46986,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/59.png"
-  },
-  {
-    "idProd": 59,
-    "nomProd": "Interruptor / Panel de Control de Aire Acondicionado y Calefactor",
-    "valorProd": 7943,
+    "valorProd": 6844,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 60,
     "nomProd": "Interruptor de Arranque/Encendido",
-    "valorProd": 40077,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/60.png"
-  },
-  {
-    "idProd": 60,
-    "nomProd": "Interruptor de Arranque/Encendido",
-    "valorProd": 47442,
+    "valorProd": 30385,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 61,
     "nomProd": "Interruptor de Freno de Estacionamiento",
-    "valorProd": 33005,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/61.png"
-  },
-  {
-    "idProd": 61,
-    "nomProd": "Interruptor de Freno de Estacionamiento",
-    "valorProd": 41116,
+    "valorProd": 48033,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 62,
     "nomProd": "Interruptor de Luz de Freno",
-    "valorProd": 36844,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/62.png"
-  },
-  {
-    "idProd": 62,
-    "nomProd": "Interruptor de Luz de Freno",
-    "valorProd": 48760,
+    "valorProd": 20032,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 63,
     "nomProd": "Interruptor de Presión de Refrigerante",
-    "valorProd": 47930,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/63.png"
-  },
-  {
-    "idProd": 63,
-    "nomProd": "Interruptor de Presión de Refrigerante",
-    "valorProd": 34112,
+    "valorProd": 18879,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 64,
     "nomProd": "Interruptor de Ventana Eléctrica",
-    "valorProd": 18397,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/64.png"
-  },
-  {
-    "idProd": 64,
-    "nomProd": "Interruptor de Ventana Eléctrica",
-    "valorProd": 5387,
+    "valorProd": 6181,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 65,
     "nomProd": "Relé de Motor de Arranque de Encendido",
-    "valorProd": 43745,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/65.png"
-  },
-  {
-    "idProd": 65,
-    "nomProd": "Relé de Motor de Arranque de Encendido",
-    "valorProd": 28982,
+    "valorProd": 38457,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 66,
     "nomProd": "Sensor de Rango / Interruptor de Seguridad Neutral",
-    "valorProd": 20128,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/66.png"
-  },
-  {
-    "idProd": 66,
-    "nomProd": "Sensor de Rango / Interruptor de Seguridad Neutral",
-    "valorProd": 3109,
+    "valorProd": 26582,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 67,
     "nomProd": "Bobina de Encendido",
-    "valorProd": 16579,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/67.png"
-  },
-  {
-    "idProd": 67,
-    "nomProd": "Bobina de Encendido",
-    "valorProd": 38751,
+    "valorProd": 9768,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 68,
     "nomProd": "Bujía / Bobina de Encendido Bota",
-    "valorProd": 49777,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/68.png"
-  },
-  {
-    "idProd": 68,
-    "nomProd": "Bujía / Bobina de Encendido Bota",
-    "valorProd": 9770,
+    "valorProd": 48107,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 69,
     "nomProd": "Cable de Bujía",
-    "valorProd": 4993,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/69.png"
-  },
-  {
-    "idProd": 69,
-    "nomProd": "Cable de Bujía",
-    "valorProd": 43977,
+    "valorProd": 12759,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 70,
     "nomProd": "Distribuidor",
-    "valorProd": 29580,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/70.png"
-  },
-  {
-    "idProd": 70,
-    "nomProd": "Distribuidor",
-    "valorProd": 22962,
+    "valorProd": 32350,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 71,
     "nomProd": "Rotor de Distribuidor",
-    "valorProd": 34308,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/71.png"
-  },
-  {
-    "idProd": 71,
-    "nomProd": "Rotor de Distribuidor",
-    "valorProd": 38614,
+    "valorProd": 5445,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 72,
     "nomProd": "Sello de Tubo de Bujía",
-    "valorProd": 33135,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/72.png"
-  },
-  {
-    "idProd": 72,
-    "nomProd": "Sello de Tubo de Bujía",
-    "valorProd": 28886,
+    "valorProd": 14428,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 73,
     "nomProd": "Sensor de Posición de Árbol de Levas",
-    "valorProd": 18998,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/73.png"
-  },
-  {
-    "idProd": 73,
-    "nomProd": "Sensor de Posición de Árbol de Levas",
-    "valorProd": 45244,
+    "valorProd": 45929,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 74,
     "nomProd": "Sensor de Posición de Cigüeñal",
-    "valorProd": 11726,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/74.png"
-  },
-  {
-    "idProd": 74,
-    "nomProd": "Sensor de Posición de Cigüeñal",
-    "valorProd": 40708,
+    "valorProd": 21538,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 75,
     "nomProd": "Tapa de distribuidor",
-    "valorProd": 35956,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/75.png"
-  },
-  {
-    "idProd": 75,
-    "nomProd": "Tapa de distribuidor",
-    "valorProd": 14851,
+    "valorProd": 46004,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 76,
     "nomProd": "Emisiones",
-    "valorProd": 20959,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/76.png"
-  },
-  {
-    "idProd": 76,
-    "nomProd": "Emisiones",
-    "valorProd": 18989,
+    "valorProd": 16829,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 77,
     "nomProd": "Abrazadera Clamp",
-    "valorProd": 17410,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/77.png"
-  },
-  {
-    "idProd": 77,
-    "nomProd": "Abrazadera Clamp",
-    "valorProd": 6571,
+    "valorProd": 39716,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 78,
     "nomProd": "Abrazadera de Escape",
-    "valorProd": 46211,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/78.png"
-  },
-  {
-    "idProd": 78,
-    "nomProd": "Abrazadera de Escape",
-    "valorProd": 3811,
+    "valorProd": 19355,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 79,
     "nomProd": "Cinturón de Silenciador",
-    "valorProd": 17152,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/79.png"
-  },
-  {
-    "idProd": 79,
-    "nomProd": "Cinturón de Silenciador",
-    "valorProd": 22604,
+    "valorProd": 23285,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 80,
     "nomProd": "Convertidor Catalítico",
-    "valorProd": 32399,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/80.png"
-  },
-  {
-    "idProd": 80,
-    "nomProd": "Convertidor Catalítico",
-    "valorProd": 30980,
+    "valorProd": 34628,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 81,
     "nomProd": "Empaque / Sello de Brida de Tubo",
-    "valorProd": 37983,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/81.png"
-  },
-  {
-    "idProd": 81,
-    "nomProd": "Empaque / Sello de Brida de Tubo",
-    "valorProd": 18084,
+    "valorProd": 21219,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 82,
     "nomProd": "Empaque de Múltiple de Escape",
-    "valorProd": 13863,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/82.png"
-  },
-  {
-    "idProd": 82,
-    "nomProd": "Empaque de Múltiple de Escape",
-    "valorProd": 3737,
+    "valorProd": 31847,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 83,
     "nomProd": "Perno / Resorte",
-    "valorProd": 24668,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/83.png"
-  },
-  {
-    "idProd": 83,
-    "nomProd": "Perno / Resorte",
-    "valorProd": 43567,
+    "valorProd": 19228,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 84,
     "nomProd": "Punta de Tubo",
-    "valorProd": 23366,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/84.png"
-  },
-  {
-    "idProd": 84,
-    "nomProd": "Punta de Tubo",
-    "valorProd": 3245,
+    "valorProd": 4275,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 85,
     "nomProd": "Sensor de Detonación",
-    "valorProd": 40804,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/85.png"
-  },
-  {
-    "idProd": 85,
-    "nomProd": "Sensor de Detonación",
-    "valorProd": 43151,
+    "valorProd": 23084,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 86,
     "nomProd": "Sensor de Flujo de Aire (MAF)",
-    "valorProd": 25559,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/86.png"
-  },
-  {
-    "idProd": 86,
-    "nomProd": "Sensor de Flujo de Aire (MAF)",
-    "valorProd": 28918,
+    "valorProd": 34409,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 87,
     "nomProd": "Sensor de Oxígeno (O2)",
-    "valorProd": 24614,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/87.png"
-  },
-  {
-    "idProd": 87,
-    "nomProd": "Sensor de Oxígeno (O2)",
-    "valorProd": 21411,
+    "valorProd": 26700,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 88,
     "nomProd": "Silenciador",
-    "valorProd": 44357,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/88.png"
-  },
-  {
-    "idProd": 88,
-    "nomProd": "Silenciador",
-    "valorProd": 48961,
+    "valorProd": 20568,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 89,
     "nomProd": "Soporte Colgante / Aislador",
-    "valorProd": 30076,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/89.png"
-  },
-  {
-    "idProd": 89,
-    "nomProd": "Soporte Colgante / Aislador",
-    "valorProd": 47257,
+    "valorProd": 34480,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 90,
     "nomProd": "Soporte de Escape",
-    "valorProd": 5425,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/90.png"
-  },
-  {
-    "idProd": 90,
-    "nomProd": "Soporte de Escape",
-    "valorProd": 19313,
+    "valorProd": 4953,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 91,
     "nomProd": "Tubo / Resonador",
-    "valorProd": 26710,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/91.png"
-  },
-  {
-    "idProd": 91,
-    "nomProd": "Tubo / Resonador",
-    "valorProd": 4643,
+    "valorProd": 35779,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 92,
     "nomProd": "Válvula / Solenoide de Purga de Bote de Vapor",
-    "valorProd": 47108,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/92.png"
-  },
-  {
-    "idProd": 92,
-    "nomProd": "Válvula / Solenoide de Purga de Bote de Vapor",
-    "valorProd": 7279,
+    "valorProd": 14813,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 93,
     "nomProd": "Válvula / Solenoide de Ventilación de Bote de Vapor",
-    "valorProd": 25457,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/93.png"
-  },
-  {
-    "idProd": 93,
-    "nomProd": "Válvula / Solenoide de Ventilación de Bote de Vapor",
-    "valorProd": 44513,
+    "valorProd": 39767,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 94,
     "nomProd": "Válvula de Ventilación Positiva del Cárter (PCV)",
-    "valorProd": 48599,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/94.png"
-  },
-  {
-    "idProd": 94,
-    "nomProd": "Válvula de Ventilación Positiva del Cárter (PCV)",
-    "valorProd": 15168,
+    "valorProd": 7464,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 95,
     "nomProd": "Válvula EGR (Recirculación de Gases de Escape)",
-    "valorProd": 6326,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/95.png"
-  },
-  {
-    "idProd": 95,
-    "nomProd": "Válvula EGR (Recirculación de Gases de Escape)",
-    "valorProd": 40926,
+    "valorProd": 32282,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 96,
     "nomProd": "aza de Rueda",
-    "valorProd": 37181,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/96.png"
-  },
-  {
-    "idProd": 96,
-    "nomProd": "aza de Rueda",
-    "valorProd": 28218,
+    "valorProd": 27590,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 97,
     "nomProd": "Anillo de Retención de Cojinete de Rueda",
-    "valorProd": 21873,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/97.png"
-  },
-  {
-    "idProd": 97,
-    "nomProd": "Anillo de Retención de Cojinete de Rueda",
-    "valorProd": 9514,
+    "valorProd": 43995,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 98,
     "nomProd": "Cable de Freno de Estacionamiento",
-    "valorProd": 6588,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/98.png"
-  },
-  {
-    "idProd": 98,
-    "nomProd": "Cable de Freno de Estacionamiento",
-    "valorProd": 22269,
+    "valorProd": 28136,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 99,
     "nomProd": "Cilindro de Freno",
-    "valorProd": 44675,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/99.png"
-  },
-  {
-    "idProd": 99,
-    "nomProd": "Cilindro de Freno",
-    "valorProd": 39181,
+    "valorProd": 36685,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 100,
     "nomProd": "Cilindro Maestro",
-    "valorProd": 26650,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/100.png"
-  },
-  {
-    "idProd": 100,
-    "nomProd": "Cilindro Maestro",
-    "valorProd": 11326,
+    "valorProd": 32070,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 101,
     "nomProd": "Cojinete de Rueda",
-    "valorProd": 31893,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/101.png"
-  },
-  {
-    "idProd": 101,
-    "nomProd": "Cojinete de Rueda",
-    "valorProd": 12400,
+    "valorProd": 11672,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 102,
     "nomProd": "Cojinete de Rueda y Maza",
-    "valorProd": 11347,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/102.png"
-  },
-  {
-    "idProd": 102,
-    "nomProd": "Cojinete de Rueda y Maza",
-    "valorProd": 44695,
+    "valorProd": 41657,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 103,
     "nomProd": "Juego de Hardware de Freno de Disco",
-    "valorProd": 5544,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/103.png"
-  },
-  {
-    "idProd": 103,
-    "nomProd": "Juego de Hardware de Freno de Disco",
-    "valorProd": 43546,
+    "valorProd": 43870,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 104,
     "nomProd": "Juego de Reparación de Autoajuste de Freno de Tambor",
-    "valorProd": 47881,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/104.png"
-  },
-  {
-    "idProd": 104,
-    "nomProd": "Juego de Reparación de Autoajuste de Freno de Tambor",
-    "valorProd": 15346,
+    "valorProd": 5854,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 105,
     "nomProd": "Juego de Retención de Zapata de Freno",
-    "valorProd": 26883,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/105.png"
-  },
-  {
-    "idProd": 105,
-    "nomProd": "Juego de Retención de Zapata de Freno",
-    "valorProd": 34126,
+    "valorProd": 25375,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 106,
     "nomProd": "Manguera de Freno",
-    "valorProd": 25780,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/106.png"
-  },
-  {
-    "idProd": 106,
-    "nomProd": "Manguera de Freno",
-    "valorProd": 33851,
+    "valorProd": 28758,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 107,
     "nomProd": "Maza de Rueda",
-    "valorProd": 47018,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/107.png"
-  },
-  {
-    "idProd": 107,
-    "nomProd": "Maza de Rueda",
-    "valorProd": 49234,
+    "valorProd": 15032,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 108,
     "nomProd": "Mordaza",
-    "valorProd": 14981,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/108.png"
-  },
-  {
-    "idProd": 108,
-    "nomProd": "Mordaza",
-    "valorProd": 22528,
+    "valorProd": 37161,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 109,
     "nomProd": "Pastilla de Freno",
-    "valorProd": 39491,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/109.png"
-  },
-  {
-    "idProd": 109,
-    "nomProd": "Pastilla de Freno",
-    "valorProd": 48284,
+    "valorProd": 4261,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 110,
     "nomProd": "Pista de Cojinete y Conductor de Sello",
-    "valorProd": 28341,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/110.png"
-  },
-  {
-    "idProd": 110,
-    "nomProd": "Pista de Cojinete y Conductor de Sello",
-    "valorProd": 11244,
+    "valorProd": 47476,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 111,
     "nomProd": "Rotor",
-    "valorProd": 33751,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/111.png"
-  },
-  {
-    "idProd": 111,
-    "nomProd": "Rotor",
-    "valorProd": 8806,
+    "valorProd": 13024,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 112,
     "nomProd": "Sello de Rueda",
-    "valorProd": 14001,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/112.png"
-  },
-  {
-    "idProd": 112,
-    "nomProd": "Sello de Rueda",
-    "valorProd": 18168,
+    "valorProd": 13068,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 113,
     "nomProd": "Sensor de Desgaste de Pastilla de Freno",
-    "valorProd": 15429,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/113.png"
-  },
-  {
-    "idProd": 113,
-    "nomProd": "Sensor de Desgaste de Pastilla de Freno",
-    "valorProd": 27708,
+    "valorProd": 17509,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 114,
     "nomProd": "Sensor de Nivel de Fluido de Freno",
-    "valorProd": 5335,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/114.png"
-  },
-  {
-    "idProd": 114,
-    "nomProd": "Sensor de Nivel de Fluido de Freno",
-    "valorProd": 16733,
+    "valorProd": 7232,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 115,
     "nomProd": "Sensor de Velocidad de Rueda de ABS (Sistema de Freno Anti-Bloqueo)",
-    "valorProd": 43866,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/115.png"
-  },
-  {
-    "idProd": 115,
-    "nomProd": "Sensor de Velocidad de Rueda de ABS (Sistema de Freno Anti-Bloqueo)",
-    "valorProd": 25075,
+    "valorProd": 6434,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 116,
     "nomProd": "Tambor",
-    "valorProd": 37087,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/116.png"
-  },
-  {
-    "idProd": 116,
-    "nomProd": "Tambor",
-    "valorProd": 10540,
+    "valorProd": 35738,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 117,
     "nomProd": "Zapata de Freno",
-    "valorProd": 8374,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/117.png"
-  },
-  {
-    "idProd": 117,
-    "nomProd": "Zapata de Freno",
-    "valorProd": 38859,
+    "valorProd": 32063,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 118,
     "nomProd": "Zapata de Freno de Estacionamiento",
-    "valorProd": 49958,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/118.png"
-  },
-  {
-    "idProd": 118,
-    "nomProd": "Zapata de Freno de Estacionamiento",
-    "valorProd": 37129,
+    "valorProd": 20844,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 119,
     "nomProd": "Ensamblaje de Regulador de Ventana y Motor",
-    "valorProd": 47153,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/119.png"
-  },
-  {
-    "idProd": 119,
-    "nomProd": "Ensamblaje de Regulador de Ventana y Motor",
-    "valorProd": 14914,
+    "valorProd": 22633,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 120,
     "nomProd": "Motor de Ventana",
-    "valorProd": 9215,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/120.png"
-  },
-  {
-    "idProd": 120,
-    "nomProd": "Motor de Ventana",
-    "valorProd": 38435,
+    "valorProd": 42884,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 121,
     "nomProd": "Pedal de Acelerador",
-    "valorProd": 30224,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/121.png"
-  },
-  {
-    "idProd": 121,
-    "nomProd": "Pedal de Acelerador",
-    "valorProd": 25405,
+    "valorProd": 18709,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 122,
     "nomProd": "Regulador de Ventana",
-    "valorProd": 35450,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/122.png"
-  },
-  {
-    "idProd": 122,
-    "nomProd": "Regulador de Ventana",
-    "valorProd": 41511,
+    "valorProd": 14459,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 123,
     "nomProd": "Motor",
-    "valorProd": 11553,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/123.png"
-  },
-  {
-    "idProd": 123,
-    "nomProd": "Motor",
-    "valorProd": 32849,
+    "valorProd": 43978,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 124,
     "nomProd": "Ajuste de Tensor de Correa de Distribución",
-    "valorProd": 7785,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/124.png"
-  },
-  {
-    "idProd": 124,
-    "nomProd": "Ajuste de Tensor de Correa de Distribución",
-    "valorProd": 22227,
+    "valorProd": 6051,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 125,
     "nomProd": "Buje de Soporte de Motor",
-    "valorProd": 25547,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/125.png"
-  },
-  {
-    "idProd": 125,
-    "nomProd": "Buje de Soporte de Motor",
-    "valorProd": 27003,
+    "valorProd": 40767,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 126,
     "nomProd": "Correa de Distribución",
-    "valorProd": 47174,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/126.png"
-  },
-  {
-    "idProd": 126,
-    "nomProd": "Correa de Distribución",
-    "valorProd": 14223,
+    "valorProd": 29311,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 127,
     "nomProd": "Correa de Eje de Equilibrio",
-    "valorProd": 24115,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/127.png"
-  },
-  {
-    "idProd": 127,
-    "nomProd": "Correa de Eje de Equilibrio",
-    "valorProd": 23170,
+    "valorProd": 20262,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 128,
     "nomProd": "Empaque de Bomba de Aceite",
-    "valorProd": 31430,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/128.png"
-  },
-  {
-    "idProd": 128,
-    "nomProd": "Empaque de Bomba de Aceite",
-    "valorProd": 24546,
+    "valorProd": 46730,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 129,
     "nomProd": "Empaque de Cacerola de Aceite",
-    "valorProd": 21571,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/129.png"
-  },
-  {
-    "idProd": 129,
-    "nomProd": "Empaque de Cacerola de Aceite",
-    "valorProd": 9496,
+    "valorProd": 41061,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 130,
     "nomProd": "Empaque de Cojinete de Cigüeñal",
-    "valorProd": 43170,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/130.png"
-  },
-  {
-    "idProd": 130,
-    "nomProd": "Empaque de Cojinete de Cigüeñal",
-    "valorProd": 12768,
+    "valorProd": 15059,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 131,
     "nomProd": "Empaque de Culata",
-    "valorProd": 41238,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/131.png"
-  },
-  {
-    "idProd": 131,
-    "nomProd": "Empaque de Culata",
-    "valorProd": 29270,
+    "valorProd": 30064,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 132,
     "nomProd": "Empaque de Múltiple de Admisión",
-    "valorProd": 17517,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/132.png"
-  },
-  {
-    "idProd": 132,
-    "nomProd": "Empaque de Múltiple de Admisión",
-    "valorProd": 13802,
+    "valorProd": 9471,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 133,
     "nomProd": "Empaque de Plenum de Admisión",
-    "valorProd": 33134,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/133.png"
-  },
-  {
-    "idProd": 133,
-    "nomProd": "Empaque de Plenum de Admisión",
-    "valorProd": 11398,
+    "valorProd": 12277,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 134,
     "nomProd": "Empaque de Tapa de Válvulas",
-    "valorProd": 13028,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/134.png"
-  },
-  {
-    "idProd": 134,
-    "nomProd": "Empaque de Tapa de Válvulas",
-    "valorProd": 26288,
+    "valorProd": 32450,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 135,
     "nomProd": "Enfriador de Aceite",
-    "valorProd": 38114,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/135.png"
-  },
-  {
-    "idProd": 135,
-    "nomProd": "Enfriador de Aceite",
-    "valorProd": 30916,
+    "valorProd": 3146,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 136,
     "nomProd": "Filtro de Aceite",
-    "valorProd": 34509,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/136.png"
-  },
-  {
-    "idProd": 136,
-    "nomProd": "Filtro de Aceite",
-    "valorProd": 30683,
+    "valorProd": 13833,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 137,
     "nomProd": "Juego de Empaque de Múltiples de Admisión y Escape",
-    "valorProd": 46712,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/137.png"
-  },
-  {
-    "idProd": 137,
-    "nomProd": "Juego de Empaque de Múltiples de Admisión y Escape",
-    "valorProd": 38370,
+    "valorProd": 48709,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 138,
     "nomProd": "Juego de Empaques de Culata",
-    "valorProd": 37023,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/138.png"
-  },
-  {
-    "idProd": 138,
-    "nomProd": "Juego de Empaques de Culata",
-    "valorProd": 18550,
+    "valorProd": 24025,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 139,
     "nomProd": "Ojal de Tapa de Válvulas",
-    "valorProd": 27310,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/139.png"
-  },
-  {
-    "idProd": 139,
-    "nomProd": "Ojal de Tapa de Válvulas",
-    "valorProd": 25982,
+    "valorProd": 34548,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 140,
     "nomProd": "Polea Loca de Distribución",
-    "valorProd": 41007,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/140.png"
-  },
-  {
-    "idProd": 140,
-    "nomProd": "Polea Loca de Distribución",
-    "valorProd": 45925,
+    "valorProd": 6190,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 141,
     "nomProd": "Sello de Árbol de Levas",
-    "valorProd": 9280,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/141.png"
-  },
-  {
-    "idProd": 141,
-    "nomProd": "Sello de Árbol de Levas",
-    "valorProd": 15060,
+    "valorProd": 39486,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 142,
     "nomProd": "Sello de Cigüeñal",
-    "valorProd": 41419,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/142.png"
-  },
-  {
-    "idProd": 142,
-    "nomProd": "Sello de Cigüeñal",
-    "valorProd": 30931,
+    "valorProd": 23416,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 143,
     "nomProd": "Solenoide / Actuador de Distribución de Válvula Variable (VVT)",
-    "valorProd": 48769,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/143.png"
-  },
-  {
-    "idProd": 143,
-    "nomProd": "Solenoide / Actuador de Distribución de Válvula Variable (VVT)",
-    "valorProd": 4753,
+    "valorProd": 31834,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 144,
     "nomProd": "Soporte de Motor",
-    "valorProd": 33261,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/144.png"
-  },
-  {
-    "idProd": 144,
-    "nomProd": "Soporte de Motor",
-    "valorProd": 18493,
+    "valorProd": 34082,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 145,
     "nomProd": "Soporte de Torsión",
-    "valorProd": 18577,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/145.png"
-  },
-  {
-    "idProd": 145,
-    "nomProd": "Soporte de Torsión",
-    "valorProd": 46184,
+    "valorProd": 44684,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 146,
     "nomProd": "Tapón de Culata",
+    "valorProd": 5139,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 147,
+    "nomProd": "Tensor de Correa de Distribución",
+    "valorProd": 43708,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 148,
+    "nomProd": "Bomba de Agua",
+    "valorProd": 21145,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 149,
+    "nomProd": "Carcasa de Termostato / Salida de Agua",
+    "valorProd": 42902,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 150,
+    "nomProd": "Depósito de Refrigerante",
+    "valorProd": 28257,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 151,
+    "nomProd": "Embrague de Ventilador de Radiador",
+    "valorProd": 26206,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 152,
+    "nomProd": "Ensamblaje de Ventilador de Radiador",
+    "valorProd": 36110,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 153,
+    "nomProd": "Enviador / Sensor de Temperatura",
+    "valorProd": 19268,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 154,
+    "nomProd": "Motor de Ventilador de Radiador",
+    "valorProd": 22877,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 155,
+    "nomProd": "Termostato",
+    "valorProd": 49654,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 156,
+    "nomProd": "Termostato / Sello de Carcasa de Termostato / Salida de Agua",
+    "valorProd": 40241,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 157,
+    "nomProd": "Aislador de Muelle de Hojas",
+    "valorProd": 34343,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 158,
+    "nomProd": "Amortiguador / Amortiguador (Puntal)",
+    "valorProd": 31969,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 159,
+    "nomProd": "Amortiguador / Amortiguador (Puntal) y Resorte Espiral Ensamblaje",
+    "valorProd": 33253,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 160,
+    "nomProd": "Amortiguador / Cojinete de Amortiguador (Puntal)",
+    "valorProd": 21689,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 161,
+    "nomProd": "Amortiguador / Soporte de Amortiguador (Puntal)",
+    "valorProd": 38165,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 162,
+    "nomProd": "Asiento / Aislador de Resorte Espiral",
+    "valorProd": 7854,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 163,
+    "nomProd": "Barra de Guía",
+    "valorProd": 45637,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 164,
+    "nomProd": "Brazo de Control",
+    "valorProd": 22124,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 165,
+    "nomProd": "Buje de Ángulo de Avance del Pivote / Ángulo de Caída de Alineación",
+    "valorProd": 47516,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 166,
+    "nomProd": "Buje de Barra de Guía",
+    "valorProd": 33303,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 167,
+    "nomProd": "Buje de Barra Estabilizadora",
+    "valorProd": 17373,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 168,
+    "nomProd": "Buje de Biela de Retención",
     "valorProd": 34312,
     "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/146.png"
-  },
-  {
-    "idProd": 146,
-    "nomProd": "Tapón de Culata",
-    "valorProd": 17176,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 147,
-    "nomProd": "Tensor de Correa de Distribución",
-    "valorProd": 49838,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/147.png"
-  },
-  {
-    "idProd": 147,
-    "nomProd": "Tensor de Correa de Distribución",
-    "valorProd": 11280,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 148,
-    "nomProd": "Bomba de Agua",
-    "valorProd": 42827,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/148.png"
-  },
-  {
-    "idProd": 148,
-    "nomProd": "Bomba de Agua",
-    "valorProd": 15320,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 149,
-    "nomProd": "Carcasa de Termostato / Salida de Agua",
-    "valorProd": 7400,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/149.png"
-  },
-  {
-    "idProd": 149,
-    "nomProd": "Carcasa de Termostato / Salida de Agua",
-    "valorProd": 24191,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 150,
-    "nomProd": "Depósito de Refrigerante",
-    "valorProd": 42273,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/150.png"
-  },
-  {
-    "idProd": 150,
-    "nomProd": "Depósito de Refrigerante",
-    "valorProd": 26438,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 151,
-    "nomProd": "Embrague de Ventilador de Radiador",
-    "valorProd": 28023,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/151.png"
-  },
-  {
-    "idProd": 151,
-    "nomProd": "Embrague de Ventilador de Radiador",
-    "valorProd": 7715,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 152,
-    "nomProd": "Ensamblaje de Ventilador de Radiador",
-    "valorProd": 7197,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/152.png"
-  },
-  {
-    "idProd": 152,
-    "nomProd": "Ensamblaje de Ventilador de Radiador",
-    "valorProd": 47503,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 153,
-    "nomProd": "Enviador / Sensor de Temperatura",
-    "valorProd": 23667,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/153.png"
-  },
-  {
-    "idProd": 153,
-    "nomProd": "Enviador / Sensor de Temperatura",
-    "valorProd": 27531,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 154,
-    "nomProd": "Motor de Ventilador de Radiador",
-    "valorProd": 21164,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/154.png"
-  },
-  {
-    "idProd": 154,
-    "nomProd": "Motor de Ventilador de Radiador",
-    "valorProd": 21788,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 155,
-    "nomProd": "Termostato",
-    "valorProd": 26181,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/155.png"
-  },
-  {
-    "idProd": 155,
-    "nomProd": "Termostato",
-    "valorProd": 31825,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 156,
-    "nomProd": "Termostato / Sello de Carcasa de Termostato / Salida de Agua",
-    "valorProd": 21411,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/156.png"
-  },
-  {
-    "idProd": 156,
-    "nomProd": "Termostato / Sello de Carcasa de Termostato / Salida de Agua",
-    "valorProd": 43669,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 157,
-    "nomProd": "Aislador de Muelle de Hojas",
-    "valorProd": 14981,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/157.png"
-  },
-  {
-    "idProd": 157,
-    "nomProd": "Aislador de Muelle de Hojas",
-    "valorProd": 34218,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 158,
-    "nomProd": "Amortiguador / Amortiguador (Puntal)",
-    "valorProd": 7911,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/158.png"
-  },
-  {
-    "idProd": 158,
-    "nomProd": "Amortiguador / Amortiguador (Puntal)",
-    "valorProd": 48147,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 159,
-    "nomProd": "Amortiguador / Amortiguador (Puntal) y Resorte Espiral Ensamblaje",
-    "valorProd": 13251,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/159.png"
-  },
-  {
-    "idProd": 159,
-    "nomProd": "Amortiguador / Amortiguador (Puntal) y Resorte Espiral Ensamblaje",
-    "valorProd": 5140,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 160,
-    "nomProd": "Amortiguador / Cojinete de Amortiguador (Puntal)",
-    "valorProd": 37989,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/160.png"
-  },
-  {
-    "idProd": 160,
-    "nomProd": "Amortiguador / Cojinete de Amortiguador (Puntal)",
-    "valorProd": 9308,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 161,
-    "nomProd": "Amortiguador / Soporte de Amortiguador (Puntal)",
-    "valorProd": 24529,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/161.png"
-  },
-  {
-    "idProd": 161,
-    "nomProd": "Amortiguador / Soporte de Amortiguador (Puntal)",
-    "valorProd": 33853,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 162,
-    "nomProd": "Asiento / Aislador de Resorte Espiral",
-    "valorProd": 33784,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/162.png"
-  },
-  {
-    "idProd": 162,
-    "nomProd": "Asiento / Aislador de Resorte Espiral",
-    "valorProd": 28745,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 163,
-    "nomProd": "Barra de Guía",
-    "valorProd": 36058,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/163.png"
-  },
-  {
-    "idProd": 163,
-    "nomProd": "Barra de Guía",
-    "valorProd": 16864,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 164,
-    "nomProd": "Brazo de Control",
-    "valorProd": 18334,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/164.png"
-  },
-  {
-    "idProd": 164,
-    "nomProd": "Brazo de Control",
-    "valorProd": 4410,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 165,
-    "nomProd": "Buje de Ángulo de Avance del Pivote / Ángulo de Caída de Alineación",
-    "valorProd": 11151,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/165.png"
-  },
-  {
-    "idProd": 165,
-    "nomProd": "Buje de Ángulo de Avance del Pivote / Ángulo de Caída de Alineación",
-    "valorProd": 17103,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 166,
-    "nomProd": "Buje de Barra de Guía",
-    "valorProd": 21743,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/166.png"
-  },
-  {
-    "idProd": 166,
-    "nomProd": "Buje de Barra de Guía",
-    "valorProd": 7955,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 167,
-    "nomProd": "Buje de Barra Estabilizadora",
-    "valorProd": 39390,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/167.png"
-  },
-  {
-    "idProd": 167,
-    "nomProd": "Buje de Barra Estabilizadora",
-    "valorProd": 17264,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 168,
-    "nomProd": "Buje de Biela de Retención",
-    "valorProd": 18255,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/168.png"
-  },
-  {
-    "idProd": 168,
-    "nomProd": "Buje de Biela de Retención",
-    "valorProd": 5436,
-    "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 169,
     "nomProd": "Buje de Brazo de Control",
-    "valorProd": 3631,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/169.png"
-  },
-  {
-    "idProd": 169,
-    "nomProd": "Buje de Brazo de Control",
-    "valorProd": 19547,
+    "valorProd": 32932,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 170,
     "nomProd": "Buje de Eje",
-    "valorProd": 20662,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/170.png"
-  },
-  {
-    "idProd": 170,
-    "nomProd": "Buje de Eje",
-    "valorProd": 10690,
+    "valorProd": 8393,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 171,
     "nomProd": "Enlace de Barra Estabilizadora",
-    "valorProd": 26128,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/171.png"
-  },
-  {
-    "idProd": 171,
-    "nomProd": "Enlace de Barra Estabilizadora",
-    "valorProd": 37159,
+    "valorProd": 45734,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 172,
     "nomProd": "Juego de Eje de Brazo de Control",
-    "valorProd": 15360,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/172.png"
-  },
-  {
-    "idProd": 172,
-    "nomProd": "Juego de Eje de Brazo de Control",
-    "valorProd": 18008,
+    "valorProd": 11387,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 173,
     "nomProd": "Perno de Alineación / Placa de Ángulo de Caída",
-    "valorProd": 24213,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/173.png"
-  },
-  {
-    "idProd": 173,
-    "nomProd": "Perno de Alineación / Placa de Ángulo de Caída",
-    "valorProd": 45524,
+    "valorProd": 24201,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 174,
     "nomProd": "Resorte Espiral",
-    "valorProd": 36815,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/174.png"
-  },
-  {
-    "idProd": 174,
-    "nomProd": "Resorte Espiral",
-    "valorProd": 5633,
+    "valorProd": 49587,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 175,
     "nomProd": "Rótula",
-    "valorProd": 32351,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/175.png"
-  },
-  {
-    "idProd": 175,
-    "nomProd": "Rótula",
-    "valorProd": 30630,
+    "valorProd": 7918,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 176,
     "nomProd": "Soporte de Barra de Torsión",
-    "valorProd": 19602,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/176.png"
-  },
-  {
-    "idProd": 176,
-    "nomProd": "Soporte de Barra de Torsión",
-    "valorProd": 6889,
+    "valorProd": 11761,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 177,
     "nomProd": "Tope",
-    "valorProd": 9904,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/177.png"
-  },
-  {
-    "idProd": 177,
-    "nomProd": "Tope",
-    "valorProd": 46419,
+    "valorProd": 18560,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 178,
     "nomProd": "Transmisión-Automática",
-    "valorProd": 27585,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/178.png"
-  },
-  {
-    "idProd": 178,
-    "nomProd": "Transmisión-Automática",
-    "valorProd": 25898,
+    "valorProd": 25999,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 179,
     "nomProd": "Anillo de Reten",
-    "valorProd": 14406,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/179.png"
-  },
-  {
-    "idProd": 179,
-    "nomProd": "Anillo de Reten",
-    "valorProd": 3958,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 180,
-    "nomProd": "Filtro",
-    "valorProd": 11185,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/180.png"
-  },
-  {
-    "idProd": 180,
-    "nomProd": "Filtro",
-    "valorProd": 43884,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 181,
-    "nomProd": "Junta Tórica y Sellos",
-    "valorProd": 31591,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/181.png"
-  },
-  {
-    "idProd": 181,
-    "nomProd": "Junta Tórica y Sellos",
-    "valorProd": 23959,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 182,
-    "nomProd": "Sello de Eje de Convertidor de Torsión",
-    "valorProd": 23377,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/182.png"
-  },
-  {
-    "idProd": 182,
-    "nomProd": "Sello de Eje de Convertidor de Torsión",
-    "valorProd": 43756,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 183,
-    "nomProd": "Sello de Eje de Salida",
-    "valorProd": 10373,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/183.png"
-  },
-  {
-    "idProd": 183,
-    "nomProd": "Sello de Eje de Salida",
-    "valorProd": 35323,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/2.png"
-  },
-  {
-    "idProd": 184,
-    "nomProd": "Soporte de Transmisión",
-    "valorProd": 20544,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/184.png"
-  },
-  {
-    "idProd": 184,
-    "nomProd": "Soporte de Transmisión",
     "valorProd": 42152,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
-    "idProd": 185,
-    "nomProd": "Cable de Embrague",
-    "valorProd": 16171,
+    "idProd": 180,
+    "nomProd": "Filtro",
+    "valorProd": 27176,
     "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/185.png"
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 181,
+    "nomProd": "Junta Tórica y Sellos",
+    "valorProd": 38252,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 182,
+    "nomProd": "Sello de Eje de Convertidor de Torsión",
+    "valorProd": 19093,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 183,
+    "nomProd": "Sello de Eje de Salida",
+    "valorProd": 35790,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
+  },
+  {
+    "idProd": 184,
+    "nomProd": "Soporte de Transmisión",
+    "valorProd": 48548,
+    "descProd": "Texto descriptivo",
+    "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 185,
     "nomProd": "Cable de Embrague",
-    "valorProd": 15540,
+    "valorProd": 24116,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 186,
     "nomProd": "Cilindro Esclavo de Embrague",
-    "valorProd": 16424,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/186.png"
-  },
-  {
-    "idProd": 186,
-    "nomProd": "Cilindro Esclavo de Embrague",
-    "valorProd": 15883,
+    "valorProd": 9677,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 187,
     "nomProd": "Cilindro Maestro de Embrague",
-    "valorProd": 21756,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/187.png"
-  },
-  {
-    "idProd": 187,
-    "nomProd": "Cilindro Maestro de Embrague",
-    "valorProd": 22277,
+    "valorProd": 16525,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 188,
     "nomProd": "Juego de Embrague",
-    "valorProd": 18416,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/188.png"
-  },
-  {
-    "idProd": 188,
-    "nomProd": "Juego de Embrague",
-    "valorProd": 25354,
+    "valorProd": 38435,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 189,
     "nomProd": "Soporte de Transmisión",
-    "valorProd": 32301,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/189.png"
-  },
-  {
-    "idProd": 189,
-    "nomProd": "Soporte de Transmisión",
-    "valorProd": 19865,
+    "valorProd": 36149,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 190,
     "nomProd": "Volante de Inercia",
-    "valorProd": 16134,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/190.png"
-  },
-  {
-    "idProd": 190,
-    "nomProd": "Volante de Inercia",
-    "valorProd": 13583,
+    "valorProd": 37003,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 191,
     "nomProd": "Tren de Transmisión",
-    "valorProd": 34711,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/191.png"
-  },
-  {
-    "idProd": 191,
-    "nomProd": "Tren de Transmisión",
-    "valorProd": 10476,
+    "valorProd": 37107,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 192,
     "nomProd": "Bota de Junta Homocinética",
-    "valorProd": 27501,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/192.png"
-  },
-  {
-    "idProd": 192,
-    "nomProd": "Bota de Junta Homocinética",
-    "valorProd": 26516,
+    "valorProd": 20174,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 193,
     "nomProd": "Cojinete / Pista de Piñón de Diferencial",
-    "valorProd": 49640,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/193.png"
-  },
-  {
-    "idProd": 193,
-    "nomProd": "Cojinete / Pista de Piñón de Diferencial",
-    "valorProd": 10994,
+    "valorProd": 42246,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 194,
     "nomProd": "Cojinete / Pista de Portador de Portador de Diferencial",
-    "valorProd": 19365,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/194.png"
-  },
-  {
-    "idProd": 194,
-    "nomProd": "Cojinete / Pista de Portador de Portador de Diferencial",
-    "valorProd": 45934,
+    "valorProd": 19400,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 195,
     "nomProd": "Cojinete de Eje de Salida de Caja de Transferencia",
-    "valorProd": 14724,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/195.png"
-  },
-  {
-    "idProd": 195,
-    "nomProd": "Cojinete de Eje de Salida de Caja de Transferencia",
-    "valorProd": 8107,
+    "valorProd": 4239,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 196,
     "nomProd": "Eje de Junta Homocinética",
-    "valorProd": 35333,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/196.png"
-  },
-  {
-    "idProd": 196,
-    "nomProd": "Eje de Junta Homocinética",
-    "valorProd": 45891,
+    "valorProd": 31359,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 197,
     "nomProd": "Soporte / Cojinete Central de Flecha Cardán",
-    "valorProd": 36732,
-    "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/197.png"
-  },
-  {
-    "idProd": 197,
-    "nomProd": "Soporte / Cojinete Central de Flecha Cardán",
-    "valorProd": 6344,
+    "valorProd": 12014,
     "descProd": "Texto descriptivo",
     "imgSrc": "img/api/2.png"
   },
   {
     "idProd": 198,
     "nomProd": "Unión Universal",
-    "valorProd": 39270,
+    "valorProd": 6854,
     "descProd": "Texto descriptivo",
-    "imgSrc": "img/api/198.png"
-  },
-  {
-    "idProd": 198,
-    "nomProd": "Unión Universal",
-    "valorProd": 40721,
-    "descProd": "Texto descriptivo"
+    "imgSrc": "img/api/2.png"
   }
 ]
